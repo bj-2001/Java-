@@ -293,4 +293,4 @@ div span:nth-child(2) {
 
 <font color='orange'>**描述：**</font>它表示子项目在侧轴的排列顺序，与align-items不同它是在子项目上指定某个特定的项目在侧轴上排列的顺序
 
-<font color='orange'>**使用：**</font>使用方式与alige-items相同
+<font color='orange'>**使用：**</font>使用方式与alige-items相同 
